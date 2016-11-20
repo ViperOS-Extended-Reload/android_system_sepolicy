@@ -279,6 +279,7 @@ neverallow {
     -audioserver
     -autoplay_app
     -dumpstate
+    -audioserver
     -shell
     userdebug_or_eng(`-su')
     -system_server
